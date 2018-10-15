@@ -1,7 +1,7 @@
 # All About Machine Learning
 ## Books
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering)
-- Building Intelligent Systems
+- [Building Intelligent Systems](https://github.com/jes2ica/all-about-machine-learning/blob/master/books/building_intelligent_systems.md)
 ## Courses
 - [Theories of Deep Learning (STATS 385)](https://stats385.github.io/)
 ## Papers
